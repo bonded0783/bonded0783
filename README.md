@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**bonded0783/bonded0783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with proficiency in a variety of programming languages and technologies, dedicated to building efficient and innovative solutions.
 
-Here are some ideas to get you started:
+## 💻 Programming Languages
+- **Java**
+- **C++**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Frontend Development
+- **HTML**
+- **CSS**
+
+## 🖥️ Operating Systems
+- **Linux**
+- **Windows 10**
+
+## 🗄️ Databases
+- **MySQL**
+
+## ⚙️ Other Tools & Skills
+- **Markdown**
+- **Git**
+- **Vim**
+- **Nginx**
+- **Apache**
+
+---
+
+I'm keen on continuously learning new technologies and enhancing my programming skills. I aim to participate in more open-source projects and contribute to the developer community.
+
+Let's connect and collaborate!
